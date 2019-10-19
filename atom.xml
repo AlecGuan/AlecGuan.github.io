@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alecguan.github.io/</id>
     <title>Alec Guan</title>
-    <updated>2019-10-19T02:27:17.565Z</updated>
+    <updated>2019-10-19T03:21:22.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alecguan.github.io/"/>
     <link rel="self" href="https://alecguan.github.io//atom.xml"/>
@@ -10,4 +10,17 @@
     <logo>https://alecguan.github.io//images/avatar.png</logo>
     <icon>https://alecguan.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Alec Guan</rights>
+    <entry>
+        <title type="html"><![CDATA[写在博客开通之际]]></title>
+        <id>https://alecguan.github.io//post/xie-zai-bo-ke-kai-tong-zhi-ji</id>
+        <link href="https://alecguan.github.io//post/xie-zai-bo-ke-kai-tong-zhi-ji">
+        </link>
+        <updated>2019-10-17T02:27:45.000Z</updated>
+        <content type="html"><![CDATA[<p>一直以来都有很强烈的表达欲望，渴望着用文字记录下生活的点滴和个人的成长。大约在半年前初次邂逅Gridea时，内心这股力量似乎一下子被激发了出来。从Homepage到About，我花了很长时间设计和规划它，上面留下的每一个文字，也都是我斟酌良久之后的呈现。我将其视为一个值得纪念的东西，本就完美主义者的我更是受不得其有任何瑕疵，我甚至还为此现学了一遍HTML语言，听了很多的设计入门课，只可惜在推完第一篇文章之后就因为种种原因而不得不将其关停。这件事情对我打击挺大，就像眼看精心呵护的种子生生被扼杀在了萌芽中，这是一种无以名状的悲愤，一种痛苦绝望着的无奈。<br>
+我于是决心断了这个念想，哪怕它时时闪现在梦里，我也只当它是个泡影。</p>
+<p>此后半年直到现在，又陆陆续续地有很多变化发生在我身上。心爱的人愤怒地向我倾泻苦水并欲决绝地离去，我也终于远离了家乡故土和牵挂的人跨洋来到异国的土地继续求学，其后我每日挣扎在新环境中饱尝孤独和焦虑的折磨，而我的大脑持续运转产生各种关于自我关于社会关于未来的想法此刻终究也是无处安放。<br>
+冥冥之中，我想我该重新提笔了。</p>
+<p>忠实地记录个人的成长和点滴想法，这是我重新开通博客的初衷。我一贯是崇尚文字的力量的，因为我始终认为当观点和想法借以文字的形式被表达和传递时，心灵的交流才得以更成熟和深入地进行。我没有将它设为私密，但我也未向任何人提及它的存在。因此，陌生人，当你无意中踏足这里时，我们的缘分就此也就结下了。欢迎来到我的世界，听听我的想法，作为朋友，我也期待与你更深入地交流，I'm always open to you and your wonderful ideas.</p>
+]]></content>
+    </entry>
 </feed>
